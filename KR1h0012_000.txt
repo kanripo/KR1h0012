@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view; -*-
 #+TITLE: 論語全解
-#+DATE: 2016-04-12 13:59:17.590453
+#+DATE: 2016-04-12 13:59:17.959542
 #+PROPERTY: ID KR1h0012
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 0
 <pb:KR1h0012_WYG_000-1a>¶
 　　欽定四庫全書　　　　經部八¶
@@ -12,7 +12,7 @@
 ¶
 　　提要¶
 ¶
-　　(臣)等謹案論語全解十卷宋陳祥道&KR0103;祥道¶
+　　(臣)等謹案論語全解十卷宋陳祥道撰祥道¶
 字用之福州人元祐中為太常博士秘書省¶
 正字李廌師友談記載其本末甚詳晁公武¶
 讀書志云王介甫論語注子雱口義其徒陳¶
